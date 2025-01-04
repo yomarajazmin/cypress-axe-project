@@ -1,0 +1,17 @@
+{
+  "name": "cypress-axe-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.49.0",
+    "cypress": "^13.17.0",
+    "cypress-axe": "^1.5.0"
+  }
+}
